@@ -5,4 +5,3 @@ label,definition,uri
 "Other Service",,http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/other
 "Transformation Service","Service that enables spatial data sets to be transformed with a view to achieving interoperability.",http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/transformation
 "View Service","Service that makes it possible, as a minimum, to display, navigate, zoom in and out, pan or overlay viewable spatial data sets and to display legend information and any relevant content of metadata.",http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/view
-"Another View Service","Service that makes it possible, as a minimum, to display, navigate, zoom in and out, pan or overlay viewable spatial data sets and to display legend information and any relevant content of metadata.",http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/view
